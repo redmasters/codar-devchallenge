@@ -1,0 +1,49 @@
+html{
+    font-size: 62.5%;
+}
+
+.container {
+    margin-top: 8rem;
+}
+.head {
+    text-align: center;
+}
+
+
+.titulo {
+    font-family: 'Roboto', sans-serif;
+    font-size: 6.0rem;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.vermelho {
+    color: #D6000D;
+}
+
+.preto{
+    color: #000;
+    font-weight: bold;
+}
+
+.menu {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.0rem;
+    font-weight: 400;
+
+    margin-top: 2.5rem;
+    
+}
+
+.menu:nth-child(2) li {
+    display: inline;
+    list-style: none;
+}
+
+.img {
+    width:50%;
+    align-items: center;
+    text-align: center;
+    
+}
+
